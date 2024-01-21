@@ -31,7 +31,7 @@
 	/*For Year 2140-2144*/
 	
 		.box{
-				background-image: url('luqu.PNG');
+				background-image: url('../Images/luqu.PNG');
 				border-radius: 8px;
 				width: 480px;
 				height: 270px;
@@ -48,7 +48,7 @@
 	/*For Year 2145-2147*/
 	
 		.box1{
-				background-image: url('lequ.PNG');
+				background-image: url('../Images/lequ.PNG');
 				border-radius: 8px;
 				width: 480px;
 				height: 270px;
@@ -65,7 +65,7 @@
 	/*For Year 2148-2149*/
 	
 		.box2{
-				background-image: url('anqu.PNG');
+				background-image: url('../Images/anqu.PNG');
 				border-radius: 8px;
 				width: 480px;
 				height: 270px;
