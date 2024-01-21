@@ -1,0 +1,130 @@
+
+
+/*For All Pages*/
+
+			body {
+				margin: 0;
+				background-color: #074914;
+				}
+			.header {
+				padding: 10px;
+				background-color: #116922;
+				height: 80px;
+				}
+			.logo {
+				display: inline;
+				margin-right: 10px;
+				float: left;
+				height: 80px;
+				width: 150px;
+				margin-left: 10px;
+				box-shadow: 4px 4px 4px #074914;
+				
+				}
+			.hn {
+				display: inline;
+				float: left;
+				padding: 25px;
+				font-size: 30px;
+				margin: 0;
+				color: #B4992C;
+				text-shadow: 2px 2px 2px black;
+				}
+				
+			.home {	
+				float: right;
+				padding: 10px 30px 10px 30px;
+				background-color:#947E22;
+				margin: 20px; 
+				margin-right: 10px;
+				text-decoration: none;
+				color: #05300D;
+				font-weight: bold;
+				text-shadow: .25px .25px .25px #05300D;
+				}
+				
+			.more {
+				float: right;
+				padding: 10px 30px 10px 30px;
+				background-color:#947E22;
+				margin: 20px 100px 20px 10px;
+				text-decoration: none;
+				color: #05300D;
+				font-weight:bold;
+				text-shadow: .25px .25px .25px #05300D;
+				}
+				
+			p {
+				font-size: 20px;
+			}
+			
+			.h1 {
+					font-size: 50px;
+					color: #947E22;
+					margin-bottom: 0;
+					text-shadow: 4px 4px 4px black;
+				}
+				
+			.VN {
+					list-style-type: none;
+					margin: 0;
+					padding: 0;
+					width: 150px;				
+					float: right;
+					margin: 0px 100px 0px 0px;
+					
+				} 
+
+			.VNL {
+					display: block;
+					text-decoration: none;
+					color: #B4992C;
+					font-size: 20px;
+					text-shadow: 1px 1px 1px black;
+				}
+				
+			.HNL {
+					display: block;
+					text-decoration: none;
+					color: #B4992C;
+					margin: 10px;
+					text-shadow: 1px 1px 1px black;
+					float: left;
+				}
+				
+			.HN {
+					list-style-type: none;
+					margin: 0;
+					padding: 0;
+					padding-left: 250px;
+					width: 500px;				
+					overflow: hidden;
+				}
+				
+				
+			.sm1 {
+				background: url(Icons.png) no-repeat -22px -14px;
+				width: 36px;
+				height: 36px;
+				
+			}
+			.sm1:hover {
+				background: url(Icons.png) no-repeat -21px -111px;
+				width: 37px;
+				height: 37px;
+			}		
+			.sm2 {
+				background: url(Icons.png) no-repeat -145px -14px;
+				width: 36px;
+				height: 36px;
+			}
+			.sm2:hover {
+				background: url(Icons.png) no-repeat -145px -111px;
+				width: 36px;
+				height: 35px;
+			}
+			.SM {
+				float: right;
+				margin: 0px 50px 50px 0px;
+				
+			}

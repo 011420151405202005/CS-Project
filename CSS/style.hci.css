@@ -1,0 +1,181 @@
+
+/*For Home, Character and Information Page*/
+
+	/*For Homepage*/
+			
+			#links {
+				display: flex;
+				margin: 0;
+				}
+				
+			#links div{
+				}
+		
+			.link1 {
+				width: 25%;		
+				margin: 0px 25px 0px 50px;
+					}
+			.link2 {					width: 25%;		
+					margin: 0px 25px 0px 25px;
+					}
+			.link3 {
+				width: 25%;	
+				margin: 0px 25px 0px 25px;
+					}
+
+			.link4 {
+				width: 25%;	
+				margin: 0px 50px 0px 25px;
+					}				
+					
+			p {
+				font-size: 20px;
+				font-family: Times New Roman, Serif;
+				color: #B4992C;
+				text-shadow: 1px 1px 1px black;
+					}
+			
+			.hpsm {
+					padding-top: 50px;
+				}
+			
+			.mp {
+				box-shadow: 10px 10px 10px 10px black;
+				}
+						
+			#mpcontent {
+				display: flex;
+				margin: 0;
+				}
+				
+			#mpcontent div{
+				}
+		
+			.left {
+					width: 55%;	
+				}
+				
+			.right {
+					width: 45%;				
+				}
+			.title {
+					margin: 75px;
+					margin-right: 10px;
+					font-size: 50px;
+					color: #947E22;
+					text-shadow: 4px 4px 4px black;
+				}
+			
+			.description {
+					margin: 75px;
+					margin-left: 20px;
+					margin-top:50px;
+					font-size: 18px;
+				}
+			
+				
+				
+				
+	/*For Characters Page*/
+	
+				.aa {
+					padding:10px;
+					color: #B4992C;
+					text-shadow: 1px 1px 1px black;
+					border-style: groove black;
+					box-shadow: 3px 3px 3px 3px black;
+				}
+				
+				img {
+					box-shadow: 1px 1px 5px 5px gray;
+				}		
+				
+				#kali {
+				display: flex;
+				margin: 100px 0px 0px 0px;
+				}	
+			
+				#kali div {
+				}
+				
+				.kalii {
+					width: 25%;
+				}
+				.kaliimage {				
+					margin: 20px;
+				}
+				.kalip {
+					width: 75%;
+					margin: 50px 50px 50px 15px;
+				}
+				
+				#anya {
+					display: flex;
+					margin: 0;
+				}	
+				
+				#anya div {
+				}
+				
+				.anyai {
+					width: 25%;
+				}
+				.anyap {
+					width: 75%;
+					margin: 50px 15px 50px 50px;
+				}
+				
+				#luna {
+					display: flex;
+					margin: 0;
+				}	
+				
+				#luna div {
+				}
+				
+				.lunai {
+					width: 25%;
+				}
+				.lunap {
+					width: 75%;
+					margin: 50px 50px 50px 15px;
+				}
+				#lexa {
+					display: flex;
+					margin: 0;
+				}	
+				
+				#lexa div {
+				}
+				
+				.lexai {
+					width: 25%;
+				}
+				.lexap {
+					width: 75%;
+					margin: 50px 15px 50px 50px;
+				}
+				#kala {
+					display: flex;
+					margin: 0;
+				}	
+				
+				#kala div {
+				}
+				
+				.kalai {
+					width: 25%;
+				}
+				.kalap {
+					width: 75%;
+					margin: 50px 50px 50px 15px;
+				}
+	
+	
+	/*For More Information Page*/
+	
+	.MI{
+				padding: 100px;
+				color: #B4992C;
+				font-size: 20px;
+			}

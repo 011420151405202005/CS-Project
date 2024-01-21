@@ -1,0 +1,79 @@
+
+/*For Year 2140-2149 Pages*/
+
+	/*For all 3 year pages*/
+	
+		.LLQ {
+				padding: 50px;
+				color: #B4992C;
+				text-shadow: 1px 1px 1px black;				
+			}
+			
+			.h2 {
+				text-align: center;
+				font-size: 25px;
+				color: #947E22;
+				margin-bottom: 0;
+				text-shadow: 4px 4px 4px black;
+			}			 
+			
+			th, td {
+				color: white;
+				text-shadow: 1px 1px 1px black;
+				padding: 1px;
+				height: 50px;
+				width:100px;
+				border: 4px solid #116922;
+				font-size: 15px;
+				text-align: center;				
+			}
+			
+	/*For Year 2140-2144*/
+	
+		.box{
+				background-image: url('luqu.PNG');
+				border-radius: 8px;
+				width: 480px;
+				height: 270px;
+				margin: 50px;
+				transition: transform 1.5s;
+				background-size: contain;
+			}
+			
+			.box:hover {
+				transform: scale(1.5);
+			}
+			
+			
+	/*For Year 2145-2147*/
+	
+		.box1{
+				background-image: url('lequ.PNG');
+				border-radius: 8px;
+				width: 480px;
+				height: 270px;
+				margin: 50px;
+				transition: transform 1.5s;
+				background-size: contain;
+			}
+			
+			.box1:hover {
+				transform: scale(1.5);
+			}
+		
+		
+	/*For Year 2148-2149*/
+	
+		.box2{
+				background-image: url('anqu.PNG');
+				border-radius: 8px;
+				width: 480px;
+				height: 270px;
+				margin: 50px;
+				transition: transform 1.5s;
+				background-size: contain;
+			}
+			
+			.box2:hover {
+				transform: scale(1.5);
+			}
