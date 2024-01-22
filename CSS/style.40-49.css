@@ -31,7 +31,7 @@
 	/*For Year 2140-2144*/
 	
 		.box{
-				background-image: url('../Images/luqu.PNG');
+				background-image: url('https://011420151405202005.github.io/CS-Project//Images/luqu.png');
 				border-radius: 8px;
 				width: 480px;
 				height: 270px;
@@ -48,7 +48,7 @@
 	/*For Year 2145-2147*/
 	
 		.box1{
-				background-image: url('../Images/lequ.PNG');
+				background-image: url("https://011420151405202005.github.io/CS-Project//Images/lexa.png");
 				border-radius: 8px;
 				width: 480px;
 				height: 270px;
@@ -65,7 +65,7 @@
 	/*For Year 2148-2149*/
 	
 		.box2{
-				background-image: url('../Images/anqu.PNG');
+				background-image: url(https://011420151405202005.github.io/CS-Project//Images/anqu.png);
 				border-radius: 8px;
 				width: 480px;
 				height: 270px;
